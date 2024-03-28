@@ -4,4 +4,4 @@ For the ETL mini project, you will work with a partner to practice building an E
 
 All dataframes have been cleaned according to project instructions and "Option 1" was utilized in the code.
 
-NB: CREATE DATABASE crowdfunding_db; was used to create a new database to run the full crowdfunding_schema.sql file. Four CREATE TABLE commands were used to import all data files into tables with constraints noted.
+NB: CREATE DATABASE crowdfunding_db; was used to create a new database to run the full crowdfunding_schema.sql file. Four CREATE TABLE commands and SELECT * FROM were used to import all data files into tables with constraints noted.
